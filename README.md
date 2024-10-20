@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bachir</h1>
-<h3 align="center">A passionate Fullstack .Net Developper</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2730F7&width=435&lines=A++Fullstack+.Net+Developper;React+Developper+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbachir97&label=Profile%20views&color=0e75b6&style=flat" alt="mbachir97" /> </p>
 
